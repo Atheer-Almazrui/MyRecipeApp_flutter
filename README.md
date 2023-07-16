@@ -1,6 +1,13 @@
 # recipe_app
 
-A new Flutter project.
+
+
+https://github.com/Atheer-Almazrui/RecipeApp_flutter/assets/119087772/4a3c1652-6517-4a5e-ab40-bbc7dc7b5bf9
+
+
+
+
+A Flutter project contains (splash screen, login & signUp screen, drawer).
 
 ## Getting Started
 
